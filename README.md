@@ -1,5 +1,5 @@
 ![Header](https://github.com/Franco-Julian/Franco-Julian/blob/1f1721ac8c32f2dffaf7b0a88c3b5705ffff6979/profile%20Banner.png "Header")
-&#128075; ## Personal Portfolio
+## &#128075; Personal Portfolio
 
 Here you can find information about the repositories I have been working on. Also the technologies I am currently working on, the ones I will be working on soon and also my stats on GitHub.
 
@@ -36,7 +36,7 @@ Here you can find information about the repositories I have been working on. Als
 <p>This are the scripts that I've learned so far, and those that I've used in my repositories. Nevertheless I keep on studying other programming languages and frameworks.</p>
 
 <h4>Basic Web Languages and Compilators</h4>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="Javascript" src="https://github.com/Franco-Julian/Franco-Julian/blob/f227062ee8082c085d8400ed8a4129fb12fc8ad9/logos/languages/javascript.svg" align="left" height="60" width="48" ></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="Javascript" src="https://github.com/Franco-Julian/Franco-Julian/blob/main/logos/languages/javascript.svg" align="left" height="60" width="48" ></a>
 <a href="https://www.typescriptlang.org/"><img alt="Typescript" src="https://github.com/Franco-Julian/Franco-Julian/blob/f227062ee8082c085d8400ed8a4129fb12fc8ad9/logos/languages/typescript.svg" align="left" height="60" width="48" ></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON"><img alt="Javascript" src="https://github.com/Franco-Julian/Franco-Julian/blob/f227062ee8082c085d8400ed8a4129fb12fc8ad9logos/others/json.svg" align="left" height="60" width="48" ></a>
 <a href="https://www.w3schools.com/html/default.asp"><img alt="HTML5" src="https://github.com/Franco-Julian/Franco-Julian/blob/f227062ee8082c085d8400ed8a4129fb12fc8ad9/logos/others/html.svg" align="left" height="60" width="48" ></a>
@@ -52,8 +52,10 @@ Here you can find information about the repositories I have been working on. Als
 <a href="https://devdocs.io/bash/" target="_blank"><img alt="Bash" src="https://github.com/Franco-Julian/Franco-Julian/blob/f227062ee8082c085d8400ed8a4129fb12fc8ad9/logos/languages/bash.svg" align="left" height="60" width="32" ></a>
 <a href="https://git-scm.com/docs/gittutorial" target="_blank"><img alt="Git" src="https://github.com/Franco-Julian/Franco-Julian/blob/f227062ee8082c085d8400ed8a4129fb12fc8ad9/logos/others/git.svg" align="left" height="60" width="60" ></a>
 <a href="https://docs.github.com/es" target="_blank"><img alt="GitHub" src="https://github.com/Franco-Julian/Franco-Julian/blob/f227062ee8082c085d8400ed8a4129fb12fc8ad9/logos/cloud/github.svg" align="left" height="60" width="48"></a>
-<a href="https://marketplace.visualstudio.com/" target="_blank"><img alt="VSCode" src="https://github.com/Franco-Julian/Franco-Julian/blob/f227062ee8082c085d8400ed8a4129fb12fc8ad9/main/logos/editors/vscode.svg" align="left" height="60" width="32"></a>
+<a href="https://marketplace.visualstudio.com/" target="_blank"><img alt="VSCode" src="https://github.com/Franco-Julian/Franco-Julian/blob/f227062ee8082c085d8400ed8a4129fb12fc8ad9/logos/editors/vscode.svg" align="left" height="60" width="32"></a>
+
 <br/><br/>
+
 -----------------------------------------------
 
 <h3>Coming soon:</h3>
