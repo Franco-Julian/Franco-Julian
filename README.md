@@ -18,17 +18,22 @@ Here you can find information about the repositories I have been working on. Als
 </tbody>
 </table>
 
+-----------------------------------------------
 
-<h2> I love listening to music </h2>
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11152467214&cover_image=true&theme=compact)](https://github.com/kittinan/spotify-github-profile)
+## &#127925; I love listening to music
+
+[![Spotify](https:/franco-julian.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
+
+
 
 
 -----------------------------------------------
 
-[![Julian GitHub stats](https://github-readme-stats.vercel.app/api?username=Franco-Julian
-&count_private=true&show_icons=true&theme=slateorange)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Franco-Julian
-&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+## &#128200; My GitHub stats
+
+![Julian GitHub stats](https://github-readme-stats.vercel.app/api?username=Franco-Julian&theme=dracula)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Franco-Julian&theme=dracula)
 
 -----------------------------------------------
 
@@ -36,9 +41,8 @@ Here you can find information about the repositories I have been working on. Als
 <p>This are the scripts that I've learned so far, and those that I've used in my repositories. Nevertheless I keep on studying other programming languages and frameworks.</p>
 
 <h4>Basic Web Languages and Compilators</h4>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="Javascript" src="https://github.com/Franco-Julian/Franco-Julian/blob/main/logos/languages/javascript.svg" align="left" height="60" width="48" ></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="Javascript" src="https://raw.githubusercontent.com/triciopa/triciopa/main/logos/languages/javascript.svg" align="left" height="60" width="48" ></a>
 <a href="https://www.typescriptlang.org/"><img alt="Typescript" src="https://github.com/Franco-Julian/Franco-Julian/blob/f227062ee8082c085d8400ed8a4129fb12fc8ad9/logos/languages/typescript.svg" align="left" height="60" width="48" ></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON"><img alt="Javascript" src="https://github.com/Franco-Julian/Franco-Julian/blob/f227062ee8082c085d8400ed8a4129fb12fc8ad9logos/others/json.svg" align="left" height="60" width="48" ></a>
 <a href="https://www.w3schools.com/html/default.asp"><img alt="HTML5" src="https://github.com/Franco-Julian/Franco-Julian/blob/f227062ee8082c085d8400ed8a4129fb12fc8ad9/logos/others/html.svg" align="left" height="60" width="48" ></a>
 <a href="https://css-tricks.com/"><img alt="CSS3" src="https://github.com/Franco-Julian/Franco-Julian/blob/f227062ee8082c085d8400ed8a4129fb12fc8ad9/logos/others/css.svg" align="left" height="60" width="48" ></a>
 <br/><br/>
@@ -61,7 +65,9 @@ Here you can find information about the repositories I have been working on. Als
 <h3>Coming soon:</h3>
 
 <a href="https://docs.oracle.com/en/java/"><img alt="Java" src="https://github.com/Franco-Julian/Franco-Julian/blob/f227062ee8082c085d8400ed8a4129fb12fc8ad9/logos/languages/java.svg" align="left" height="60" width="48" ></a>
-<a href="https://graphql.org/learn/"><img alt="GraphQL" src="https://github.com/Franco-Julian/Franco-Julian/blob/f227062ee8082c085d8400ed8a4129fb12fc8ad9/logos/databases/graphql.svg" align="left" height="60" width="32" ></a>
+<a href="https://dev.mysql.com/doc/"><img alt="MySQL" src="https://github.com/Franco-Julian/Franco-Julian/blob/f227062ee8082c085d8400ed8a4129fb12fc8ad9/logos/databases/mysql.svg" align="left" height="60" width="60" ></a>
+<a href="https://www.npmjs.com/"><img alt="NPM" src="https://github.com/Franco-Julian/Franco-Julian/blob/f227062ee8082c085d8400ed8a4129fb12fc8ad9/logos/others/npm.svg" align="left" height="60" width="60" ></a>
+<a href="https://www.postgresql.org/docs/13/index.html"><img alt="PostgreSQL" src="https://github.com/Franco-Julian/Franco-Julian/blob/f227062ee8082c085d8400ed8a4129fb12fc8ad9/logos/databases/postgresql.svg" align="left" height="60" width="48" ></a>
 
 <br/><br/>
 
@@ -75,6 +81,7 @@ Here you can find information about the repositories I have been working on. Als
 <br/><br/>
 
 -----------------------------------------------
+
 <h3>Contact me:</h3>
 <a href="https://www.linkedin.com/in/julián-franco/"><img alt="LinkedIn" src="https://github.com/Franco-Julian/Franco-Julian/blob/f227062ee8082c085d8400ed8a4129fb12fc8ad9/logos/others/linkedin-icon-2.svg" align="left" height="60" width="32" >LinkedIn profile</a>
 
