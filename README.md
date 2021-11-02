@@ -20,15 +20,6 @@ Here you can find information about the repositories I have been working on. Als
 
 -----------------------------------------------
 
-## &#127925; I love listening to music
-
-[![Spotify](https:/franco-julian.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
-
-
-
-
------------------------------------------------
-
 ## &#128200; My GitHub stats
 
 ![Julian GitHub stats](https://github-readme-stats.vercel.app/api?username=Franco-Julian&theme=dracula)
