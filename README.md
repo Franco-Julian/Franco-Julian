@@ -32,6 +32,7 @@ Here you can find information about the repositories I have been working on. Als
 <p>This are the scripts that I've learned so far, and those that I've used in my repositories. Nevertheless I keep on studying other programming languages and frameworks.</p>
 
 <h4>Basic Web Languages and Compilators</h4>
+<a href="https://kotlinlang.org"><img alt="Kotlin" src="https://raw.githubusercontent.com/triciopa/triciopa/main/logos/languages/kotlin.svg" align="left" height="60" width="48" ></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="Javascript" src="https://raw.githubusercontent.com/triciopa/triciopa/main/logos/languages/javascript.svg" align="left" height="60" width="48" ></a>
 <a href="https://www.typescriptlang.org/"><img alt="Typescript" src="https://github.com/Franco-Julian/Franco-Julian/blob/f227062ee8082c085d8400ed8a4129fb12fc8ad9/logos/languages/typescript.svg" align="left" height="60" width="48" ></a>
 <a href="https://www.w3schools.com/html/default.asp"><img alt="HTML5" src="https://github.com/Franco-Julian/Franco-Julian/blob/f227062ee8082c085d8400ed8a4129fb12fc8ad9/logos/others/html.svg" align="left" height="60" width="48" ></a>
@@ -39,6 +40,7 @@ Here you can find information about the repositories I have been working on. Als
 <br/><br/>
 
 <h4>Frameworks and libraries</h4>
+<a href="https://www.android.com"><img alt="Android" src="https://github.com/Franco-Julian/Franco-Julian/blob/f227062ee8082c085d8400ed8a4129fb12fc8ad9/logos/frameworks/android.svg" align="left" height="60" width="48" ></a>
 <a href="https://reactjs.org/docs/hello-world.html"><img alt="React" src="https://github.com/Franco-Julian/Franco-Julian/blob/f227062ee8082c085d8400ed8a4129fb12fc8ad9/logos/frameworks/react.svg" align="left" height="60" width="48" ></a>
 <a href="https://redux.js.org/tutorials/essentials/part-1-overview-concepts"><img alt="Redux" src="https://github.com/Franco-Julian/Franco-Julian/blob/f227062ee8082c085d8400ed8a4129fb12fc8ad9/logos/frameworks/redux.svg" align="left" height="60" width="48" ></a>
 <br/><br/>
@@ -53,16 +55,6 @@ Here you can find information about the repositories I have been working on. Als
 
 -----------------------------------------------
 
-<h3>Coming soon:</h3>
-
-<a href="https://docs.oracle.com/en/java/"><img alt="Java" src="https://github.com/Franco-Julian/Franco-Julian/blob/f227062ee8082c085d8400ed8a4129fb12fc8ad9/logos/languages/java.svg" align="left" height="60" width="48" ></a>
-<a href="https://dev.mysql.com/doc/"><img alt="MySQL" src="https://github.com/Franco-Julian/Franco-Julian/blob/f227062ee8082c085d8400ed8a4129fb12fc8ad9/logos/databases/mysql.svg" align="left" height="60" width="60" ></a>
-<a href="https://www.npmjs.com/"><img alt="NPM" src="https://github.com/Franco-Julian/Franco-Julian/blob/f227062ee8082c085d8400ed8a4129fb12fc8ad9/logos/others/npm.svg" align="left" height="60" width="60" ></a>
-<a href="https://www.postgresql.org/docs/13/index.html"><img alt="PostgreSQL" src="https://github.com/Franco-Julian/Franco-Julian/blob/f227062ee8082c085d8400ed8a4129fb12fc8ad9/logos/databases/postgresql.svg" align="left" height="60" width="48" ></a>
-
-<br/><br/>
-
------------------------------------------------
 <h3>Agile methodologies:</h3>
 <p>Over the last years, I've managed to use <b>Agile</b> in my teams, i use <b>Scrum</b> to deliver in time and always pursuing the improvement of every feature or product. I chose <b>Jira software</b> for my recent project because I think it is more complete than others and reports are very useful for managing time and resources.</p>
 
